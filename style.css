@@ -1,0 +1,49 @@
+
+.A {
+    background-color: darkblue;
+    color: white;
+    height: 200px;
+    margin-right: 10px;
+}
+
+.B {
+    background-color: darkmagenta;
+    color: white;
+    height: 180px;
+    margin-right: 10px;
+}
+
+.C {
+    background-color: darkred;
+    color: white;
+    height: 160px;
+    margin-right: 10px;
+}
+
+.D {
+    background-color: darkorange;
+    color: white;
+    height: 140px;
+    margin-right: 10px;
+}
+
+.E {
+    background-color: darkgoldenrod;
+    color: white;
+    height: 120px;
+    margin-right: 10px;
+}
+
+.F {
+    background-color: darkgreen;
+    color: white;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.G {
+    background-color: darkcyan;
+    color: white;
+    height: 80px;
+    margin-right: 10px;
+}
